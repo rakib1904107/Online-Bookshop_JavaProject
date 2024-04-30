@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [12/Jun/2023:00:43:52 +0600] "GET /Ebook-App/all_recent_book.jsp HTTP/1.1" 200 7057
+0:0:0:0:0:0:0:1 - - [12/Jun/2023:00:43:54 +0600] "GET /Ebook-App/book/linux.jpeg HTTP/1.1" 200 10759

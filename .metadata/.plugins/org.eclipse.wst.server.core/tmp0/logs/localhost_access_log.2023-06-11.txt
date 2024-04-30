@@ -1,0 +1,17 @@
+127.0.0.1 - - [11/Jun/2023:23:27:55 +0600] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [11/Jun/2023:23:27:58 +0600] "GET /Ebook-App/ HTTP/1.1" 200 13123
+0:0:0:0:0:0:0:1 - - [11/Jun/2023:23:27:58 +0600] "GET /Ebook-App/all_component/style.css HTTP/1.1" 200 159
+0:0:0:0:0:0:0:1 - - [11/Jun/2023:23:28:00 +0600] "GET /Ebook-App/book/st.jpeg HTTP/1.1" 200 15782
+0:0:0:0:0:0:0:1 - - [11/Jun/2023:23:28:00 +0600] "GET /Ebook-App/book/LOKI.jpg HTTP/1.1" 200 27532
+0:0:0:0:0:0:0:1 - - [11/Jun/2023:23:28:00 +0600] "GET /Ebook-App/book/Holly.jpg HTTP/1.1" 200 3980
+0:0:0:0:0:0:0:1 - - [11/Jun/2023:23:28:00 +0600] "GET /Ebook-App/book/harry.jpeg HTTP/1.1" 200 9979
+0:0:0:0:0:0:0:1 - - [11/Jun/2023:23:28:00 +0600] "GET /Ebook-App/book/Ugly%20Love%20A%20Novel.jpg HTTP/1.1" 200 4314
+0:0:0:0:0:0:0:1 - - [11/Jun/2023:23:28:00 +0600] "GET /Ebook-App/book/The%20Winter%20Soldier.jpg HTTP/1.1" 200 25745
+0:0:0:0:0:0:0:1 - - [11/Jun/2023:23:28:00 +0600] "GET /Ebook-App/book/sql.jpeg HTTP/1.1" 200 11174
+0:0:0:0:0:0:0:1 - - [11/Jun/2023:23:28:00 +0600] "GET /Ebook-App/book/sapiens.jpeg HTTP/1.1" 200 5313
+0:0:0:0:0:0:0:1 - - [11/Jun/2023:23:28:00 +0600] "GET /Ebook-App/book/down.jpeg HTTP/1.1" 200 9723
+0:0:0:0:0:0:0:1 - - [11/Jun/2023:23:28:00 +0600] "GET /Ebook-App/book/ani1.jpeg HTTP/1.1" 200 11389
+0:0:0:0:0:0:0:1 - - [11/Jun/2023:23:28:00 +0600] "GET /Ebook-App/book/C.jpeg HTTP/1.1" 200 6576
+0:0:0:0:0:0:0:1 - - [11/Jun/2023:23:28:00 +0600] "GET /Ebook-App/book/java.jpeg HTTP/1.1" 200 9594
+0:0:0:0:0:0:0:1 - - [11/Jun/2023:23:28:01 +0600] "GET /Ebook-App/img/bg1.jpg HTTP/1.1" 200 46371
+0:0:0:0:0:0:0:1 - - [11/Jun/2023:23:28:01 +0600] "GET /favicon.ico HTTP/1.1" 404 763
